@@ -1,0 +1,6 @@
+@import './base.css';
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Source+Code+Pro:wght@200&display=swap');
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
